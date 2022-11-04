@@ -1,0 +1,14 @@
+dataset: DATA_Christine
+subject: [sub-p001, sub-p002, sub-p040, sub-p041, sub-p046, sub-p048, sub-p055, sub-p0582]
+task: [task-AIR, task-AIR, task-AIR, task-AIR, task-AIR, task-AIR, task-AIR, task-AIR]
+out_folder: /lustre/groups/iml/data/brain/mr/mqBOLD_MRI_TUM/YoungHealthyVol/simulated_abstract/
+code_folder: /home/iml/hannah.eichhorn/workspace/Motion_simulation/Code/
+in_folder: /lustre/groups/iml/data/brain/mr/mqBOLD_MRI_TUM/YoungHealthyVol/processed/
+motion_folder: /lustre/groups/iml/data/brain/mr/mqBOLD_MRI_TUM/Motion_data_ICASII/
+motion_from_h5: True
+tag_h5: 'rigid'
+simulation_nr: [0,3,6]
+motion_thr: 0.5
+include_transform: True
+include_inhomog: True
+save_magn_nifti: False
