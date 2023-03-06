@@ -1,6 +1,6 @@
 # Investigating the impact of motion and associated B0 changes on oxygenation sensitive MRI through realistic simulations
 
-Abstract submitted to ISMRM 2023
+Abstract accepted and to be presented as digital poster at ISMRM 2023.
 
 
 Analysis was performed in Python 3.8.12.
